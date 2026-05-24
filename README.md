@@ -6,7 +6,7 @@
 
 - 🔭 **Current Focus:** Building Data Science applications & Full Stack web solutions  
 - 🌱 **Learning:** Machine Learning, Advanced Data Analytics & Cloud Deployment  
-- 👨‍💻 **Projects:** [My Portfolio](https://pawan-88.github.io/pawan_portfolio/)  
+- 👨‍💻 **Projects:** [My Portfolio](https://pawan-portfolio-xi.vercel.app/)  
 - 📊 **Expertise:** Data Analysis, Web Development & Business Intelligence  
 - 📍 **Location:** Pune, Maharashtra  
 - ⚡ **Fun Fact:** I turn data into insights and code into solutions! 💡  
